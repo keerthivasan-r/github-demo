@@ -6,4 +6,4 @@ Second line added
 
 Third change
 
-Testing this conflict in git
+Stash changes
